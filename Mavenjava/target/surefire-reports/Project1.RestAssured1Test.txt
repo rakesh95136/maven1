@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Project1.RestAssured1Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.653 s - in Project1.RestAssured1Test
