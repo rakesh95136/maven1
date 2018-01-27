@@ -10,7 +10,7 @@ public class RestAssured1Test {
  public void fun1() {
 		
 		RestAssured.baseURI = "https://google.com";
-		System.out.println("Rakesh");
+		System.out.println("Rakesh1");
 	}
 	
 
